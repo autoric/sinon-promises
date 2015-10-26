@@ -2,9 +2,6 @@
   "name": "sinon-promises",
   "version": "1.0.0",
   "repository": "http://github.schq.secious.com/WebUI/lr-sinon-promises",
-  "publishConfig": {
-    "registry": "http://usbo1part01:8081/artifactory/api/npm/npm-local"
-  },
   "engines": {
     "node": ">=4.0.0"
   },
