@@ -1,7 +1,7 @@
 {
   "name": "sinon-promises",
   "version": "1.0.0",
-  "repository": "http://github.schq.secious.com/WebUI/lr-sinon-promises",
+  "repository": "https://github.com/autoric/sinon-promises",
   "engines": {
     "node": ">=4.0.0"
   },
